@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on revamping my site www.musicboxmelodies.com
+- 🌱 I’m currently learning the MEAN-G stack for web development
+- 🤔 I’m receiving ideas on what to improve.
+- 💬 Ask me about music boxes!
+- ⚡ Fun fact: Even though my main job is as a musician and programmer, I'm actually an accountant :)
+
+My stack:
+</img src="https://img.shields.io/badge/-MongoDB-success">
+</img src="https://img.shields.io/badge/-Express-inactive">
+</img src="https://img.shields.io/badge/-Angular%2013-red">
+</img src="https://img.shields.io/badge/-Node-brightgreen">
+</img src="https://img.shields.io/badge/-GraphQL-blueviolet">
+Other libraries:
+</img src="https://img.shields.io/badge/-ToneJs-blue">
+</img src="https://img.shields.io/badge/-Cypress-lightgrey">
+
+</img src="https://img.shields.io/youtube/channel/views/UCQEtlsriU4Dvhj2DPLpfPfQ?style=social">
+
 <!--
 **cacalo/cacalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
