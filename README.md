@@ -7,16 +7,17 @@
 - ⚡ Fun fact: Even though my main job is as a musician and programmer, I'm actually an accountant :)
 
 My stack:
-</img src="https://img.shields.io/badge/-MongoDB-success">
-</img src="https://img.shields.io/badge/-Express-inactive">
-</img src="https://img.shields.io/badge/-Angular%2013-red">
-</img src="https://img.shields.io/badge/-Node-brightgreen">
-</img src="https://img.shields.io/badge/-GraphQL-blueviolet">
+<img src="https://img.shields.io/badge/-MongoDB-success">
+<img src="https://img.shields.io/badge/-Express-inactive">
+<img src="https://img.shields.io/badge/-Angular%2013-red">
+<img src="https://img.shields.io/badge/-Node-brightgreen">
+<img src="https://img.shields.io/badge/-GraphQL-blueviolet">
 Other libraries:
-</img src="https://img.shields.io/badge/-ToneJs-blue">
-</img src="https://img.shields.io/badge/-Cypress-lightgrey">
+<img src="https://img.shields.io/badge/-ToneJs-blue">
+<img src="https://img.shields.io/badge/-Cypress-lightgrey">
 
-</img src="https://img.shields.io/youtube/channel/views/UCQEtlsriU4Dvhj2DPLpfPfQ?style=social">
+<img src="https://img.shields.io/youtube/channel/views/UCQEtlsriU4Dvhj2DPLpfPfQ?style=social">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"  width="42" height="42">
 
 <!--
 **cacalo/cacalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
