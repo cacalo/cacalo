@@ -17,7 +17,7 @@ Other libraries:
 <img src="https://img.shields.io/badge/-Cypress-lightgrey">
 
 <img src="https://img.shields.io/youtube/channel/views/UCQEtlsriU4Dvhj2DPLpfPfQ?style=social">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"  width="42" height="42">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"  width="84" height="42">
 
 <!--
 **cacalo/cacalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
