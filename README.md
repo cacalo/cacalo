@@ -12,9 +12,13 @@ My stack:
 <img src="https://img.shields.io/badge/-Angular%2013-red">
 <img src="https://img.shields.io/badge/-Node-brightgreen">
 <img src="https://img.shields.io/badge/-GraphQL-blueviolet">
-Other libraries:
+Other libraries I use:
 <img src="https://img.shields.io/badge/-ToneJs-blue">
 <img src="https://img.shields.io/badge/-Cypress-lightgrey">
+Programming languages I kind of understand:
+<img src="https://img.shields.io/badge/-Typescript-blue">
+<img src="https://img.shields.io/badge/-Python-yellow">
+<img src="https://img.shields.io/badge/-Python-blue">
 
 <img src="https://img.shields.io/youtube/channel/views/UCQEtlsriU4Dvhj2DPLpfPfQ?style=social">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"  width="54" height="34">
