@@ -10,7 +10,7 @@
 <p>
   <img src="https://img.shields.io/badge/-MongoDB-success">
   <img src="https://img.shields.io/badge/-Express-inactive">
-  <img src="https://img.shields.io/badge/-Angular%2013-red">
+  <img src="https://img.shields.io/badge/-Angular-red">
   <img src="https://img.shields.io/badge/-Node-brightgreen">
   <img src="https://img.shields.io/badge/-GraphQL-blueviolet">
 </p>
