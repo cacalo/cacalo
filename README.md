@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Calo 😁
 
-- 🔭 Working on revamping my site www.musicboxmelodies.com
-- 🌱 Learning the MEAN-G stack for web development
+- 📹 Teaching web development on my channel <a href="https://www.youtube.com/@puntojson7144/">PuntoJson</a>
+- 🔭 Maker of <a href="www.musicboxmelodies.com">music box melodies</a>
+- 🌱 Teacher in a few universities in Rosario, Argentina.
 - 🤔 Receiving ideas on what to improve.
 - 💬 Ask me about music boxes!
 - ⚡ Fun fact: Even though my main job is as a musician and programmer, I'm actually an accountant :)
@@ -18,6 +19,7 @@
 <p>
   <img src="https://img.shields.io/badge/-ToneJs-blue">
   <img src="https://img.shields.io/badge/-Cypress-lightgrey">
+  <img src="https://img.shields.io/badge/-Ionic-blue">
  </p>
 <h2>Programming languages I kind of understand:</h2>
 <p>
