@@ -2,10 +2,10 @@
 
 - 📹 Teaching web development on my channel <a href="https://www.youtube.com/@puntojson7144/">PuntoJson</a>
 - 🔭 Maker of <a href="www.musicboxmelodies.com">music box melodies</a>
-- 🌱 Teacher in a few universities in Rosario, Argentina.
+- 🌱 Teacher at Universidad Austral in Rosario, Argentina.
 - 🤔 Receiving ideas on what to improve.
 - 💬 Ask me about music boxes!
-- ⚡ Fun fact: Even though my main job is as a musician and programmer, I'm actually an accountant :)
+- ⚡ Fun fact: Even though my main job is as a programmer and musician, I'm actually an accountant :)
 
 <h2>My stack:</h2>
 <p>
